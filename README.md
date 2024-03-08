@@ -1,3 +1,9 @@
+# Soojeong's Bootstrap 5 class practice
+
+By [Soojeong], Intro Coding for Journalists class
+
+This repo is a class assignment to learn git. It is due [March] [5th], [2024].
+
 # ICJ Bootstrap Template
 
 This template goes along with the [Bootstrap lessons](https://utdata.github.io/icj-class/bs-00-intro.html) for Intro to Coding for Journalists.
